@@ -1,0 +1,204 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+p {
+    text-indent: 25px;
+}
+
+a {
+    color: inherit;
+}
+
+
+.a1in4 {
+
+    background-image: url(/proje-taslak/proje-dosya/Michael\ Jordan\ Chicago\ Bulls-123456789.jpeg);
+    background-size: 100%;
+    height: 100vh; 
+    background-repeat: no-repeat;
+    display: flex;
+    position: relative;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+    color: white;
+}
+
+.a2in4 {
+
+    background-image: url(/proje-taslak/proje-dosya/16JORDAN-01sub-mediumSquareAt3X-kariyerspor.jpg) ;
+    background-size: 100%;
+    height: 100vh;
+    display: flex;
+    position: relative;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+    color: white;
+}
+
+.a3in4 {
+
+    background-image: url(/proje-taslak/proje-dosya/Michael-Jordan-championship-cry-video-NBA-Bulls-kupa.jpg);
+    background-size: 100%;
+    height: 100vh; 
+    background-repeat: no-repeat;
+    display: flex;
+    position: relative;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+    color: white;
+}
+
+.a4in4 {
+
+    background-image: url(/proje-taslak/proje-dosya/buyabu.jpg);
+    background-size: 100%;
+    height: 100vh; 
+    background-repeat: no-repeat;
+    display: flex;
+    position: relative;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+    color: white;
+}
+
+/* ***** SAYFA 1 ***** */
+
+.poster {
+    margin: 50px 50px 50px 50px;
+    border: 3px solid red;
+    padding: 3px;
+    display: flex;
+    
+}
+
+.left-side {
+    padding: 5px;
+    object-fit: contain;
+    float: left;
+}
+
+.sayfa1-nav {
+    background-color: black;
+    height: 30px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sayfa1-nav a {
+    color: white;
+    padding-left: 100px;
+    
+}
+
+/*       SAYFA-2    */
+
+.sol-kol2 {
+    
+    width: 45%;
+    height: 250px;
+    border: 3px solid black;
+    margin-bottom: 250px;
+    overflow: scroll;
+    padding: 1rem;
+    overflow-x: hidden;
+
+}
+
+
+.sagkol2 {
+    
+    width:45%;
+    height: 250px;
+    border: 3px solid red;
+    float: right;
+    margin-top: -250px;
+    overflow: scroll;
+    overflow-x: hidden;
+    padding: 1rem;
+
+}
+
+.sol-kol2::-webkit-scrollbar {
+
+    display: none;
+}
+
+.sagkol2::-webkit-scrollbar {
+
+    display: none;
+}
+
+
+body {
+    background-image: url(https://w0.peakpx.com/wallpaper/621/648/HD-wallpaper-michael-jordan-jordan-goat-bulls-thumbnail.jpg);
+    color: white;
+}
+
+.titleof2 {
+    height: 250px;   
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+
+.titleof2 h1 {
+    font-size: 120px;
+    font-weight: 500;
+    
+}
+
+.sayfa2r-nav {
+    display:flex;
+    align-items: center ;
+    justify-content: center;
+    justify-content: space-around;
+    font-size: 2rem;
+    
+    
+}
+
+.sayfa2r-nav a {
+    display: block;
+    line-height: 75px;
+    
+}
+
+
+.sayfa2r-nav a:hover {
+
+    background-color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
