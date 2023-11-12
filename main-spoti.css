@@ -14,7 +14,7 @@ a {
 
 .a1in4 {
 
-    background-image: url(./proje-taslak/proje-dosya/Michael\Jordan\Chicago\Bulls-123456789.jpeg);
+    background-image: url(/proje-taslak/proje-dosya/Michael\Jordan\Chicago\Bulls-123456789.jpeg);
     background-size: 100%;
     height: 100vh; 
     background-repeat: no-repeat;
@@ -29,7 +29,7 @@ a {
 
 .a2in4 {
 
-    background-image: url(./proje-taslak/proje-dosya/16JORDAN-01sub-mediumSquareAt3X-kariyerspor.jpg);
+    background-image: url(/proje-taslak/proje-dosya/16JORDAN-01sub-mediumSquareAt3X-kariyerspor.jpg);
     background-size: 100%;
     height: 100vh;
     display: flex;
@@ -43,7 +43,7 @@ a {
 
 .a3in4 {
 
-    background-image: url(./proje-taslak/proje-dosya/Michael-Jordan-championship-cry-video-NBA-Bulls-kupa.jpg);
+    background-image: url(/proje-taslak/proje-dosya/Michael-Jordan-championship-cry-video-NBA-Bulls-kupa.jpg);
     background-size: 100%;
     height: 100vh; 
     background-repeat: no-repeat;
@@ -58,7 +58,7 @@ a {
 
 .a4in4 {
 
-    background-image: url(./proje-taslak/proje-dosya/buyabu.jpg);
+    background-image: url(/proje-taslak/proje-dosya/buyabu.jpg);
     background-size: 100%;
     height: 100vh; 
     background-repeat: no-repeat;
